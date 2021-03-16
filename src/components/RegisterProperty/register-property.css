@@ -1,0 +1,38 @@
+.landing-page-btn {
+  background: #ff000000;
+  color: white;
+}
+.landing-page-btn:hover {
+  border: #3a2d7b;
+  color: #3a2d7b;
+}
+.register-property-layout .landing-header{
+  background: white !important;
+}
+.register-property-layout .landing-header {
+  border-bottom: 1px solid #d2cece73;
+}
+.mb-15{
+  margin-bottom: 15px;
+}
+.tags-custom-width{
+  padding: 9px 0px;
+  border: 1px solid #1F1F1F;
+  width: 135px;
+  text-align: center;
+  margin: 2px 2px;
+  color: #1F1F1F;
+}
+.ant-tag-checkable-checked {
+  background-color: #F2F1F7 !important;
+  border: 1px solid #44358F;
+}
+.ant-tag-checkable:not(.ant-tag-checkable-checked):hover{
+  color: #44358F;
+}
+.selected-address {
+  border: 1px solid #3a2d7b7c;
+}
+.font-bold{
+  font-weight: bold;
+}
